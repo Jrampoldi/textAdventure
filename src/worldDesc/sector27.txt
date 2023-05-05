@@ -1,0 +1,4 @@
+you are in sector 27, section 1
+you are in sector 27, section 2
+you are in sector 27, section 3
+you are in sector 27, section 4
