@@ -1,0 +1,12 @@
+1
+movementBlock
+north
+***
+2
+movementBlock
+north
+***
+enemyInteraction
+***
+3
+4

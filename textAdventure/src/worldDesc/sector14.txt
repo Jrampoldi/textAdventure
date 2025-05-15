@@ -1,0 +1,4 @@
+(14, 1) Through the gate you go, standing at a road you see, the option is yours to explore, the risk of dying, unprepared, you'll be. 
+(14, 2) Here is a road that runs from north-west through south east, too far east will take you from the path.
+(14, 3) Walking through tall grass, you hear unsettling rustling all around... You might want to leave.
+(14, 4) Ahh the road splits with a sign at the base; two options are yours. Will you head the "Great city of Khav'kind" down south, or will you head east to the next split.

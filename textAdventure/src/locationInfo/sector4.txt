@@ -1,0 +1,13 @@
+1
+movementBlock
+west
+***
+2
+3
+movementBlock
+north
+***
+4
+movementBlock
+north
+***
